@@ -1,7 +1,10 @@
 % https://habr.com/ru/companies/ruvds/articles/574352/
 % https://guides.nyu.edu/LaTeX/sample-document
+% https://ru.stackoverflow.com/questions/222769/latex-как-быть-с-русским-текстом/757767#757767
 
 \documentclass{article}
+% без этой строчки (модуль cmap) не будет работать поиск внутри документа и копирование русского текста:
+\usepackage{cmap}
 \usepackage[utf8]{inputenc}
 \usepackage[english,russian]{babel}
 
