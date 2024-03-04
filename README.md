@@ -11,7 +11,7 @@
 ---
 
 полный текст в релизах:
-https://github.com/sadr0b0t/it-atomata-part1/releases
+https://github.com/sadr0b0t/it-automata-part1/releases
 
 # собрать документ
 
