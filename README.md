@@ -10,7 +10,7 @@
 
 ---
 
-pdf: https://github.com/sadr0b0t/it-automata-part1/releases/download/v2.1-sept2024/it-automata-part1-eco-effects-v2.1-sept2024.pdf
+pdf: https://github.com/sadr0b0t/it-automata-part1/releases/download/v2.2-dec2025/it-automata-part1-eco-effects-v2.2-dec2025.pdf
 
 версии в релизах:
 https://github.com/sadr0b0t/it-automata-part1/releases
